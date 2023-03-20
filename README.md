@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-"Page for new releases" foi desenvoldido para que criadores de conteúdos e até mesmo produtos, possam utilizar de uma página criativa para divulgação do seu novo lançamento. Nesse projeto, usei como exemplo o novo filme do Mario, chamado Super Mario Bros - O Filme.
+"Page for new releases" foi desenvolvido para que criadores de conteúdos e até mesmo produtos, possam utilizar de uma página criativa para divulgação do seu novo lançamento. Nesse projeto, usei como exemplo o novo filme do Mario, chamado Super Mario Bros - O Filme.
 
 ## :memo: Licença
 
